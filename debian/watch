@@ -1,0 +1,3 @@
+version=3
+http://bitbucket.org/carljm/django-markitup/downloads/ \
+/carljm/django-markitup/get/(\d.*).tar.gz
